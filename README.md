@@ -19,12 +19,12 @@ I work at the intersection of enterprise infrastructure, customer outcomes, secu
 
 | Architecture | Focus | Repository |
 | --- | --- | --- |
-| **Nutanix hybrid multicloud DR blueprint** | AOS/AHV, Flow microsegmentation, recovery design, runbooks | [Explore design](https://github.com/darianodirling/nutanix-hybrid-multicloud-dr-blueprint) |
-| **Cisco Zero Trust security fabric** | SSE/SASE, FTD/FMC, ASA, IOS, ISE, TrustSec | [Planned reference architecture](https://github.com/darianodirling/cisco-zero-trust-security-fabric) |
-| **Minikube NGINX + Prometheus observability** | Autoscaling, ingress, exporters, Prometheus | [Planned reference architecture](https://github.com/darianodirling/minikube-nginx-prometheus-observability) |
-| **Enterprise home lab infrastructure** | OPNsense, Proxmox, Nutanix CE, Kubernetes, ZFS, Jellyfin | [Planned reference architecture](https://github.com/darianodirling/enterprise-homelab-infrastructure) |
+| **Nutanix hybrid multicloud DR blueprint** | AOS/AHV, Flow microsegmentation, recovery design, runbooks | [View completed architecture](https://github.com/darianodirling/nutanix-hybrid-multicloud-dr-blueprint) |
+| **Cisco Zero Trust security fabric** | SSE/SASE, FTD/FMC, ASA, IOS, ISE, TrustSec | [View completed architecture](https://github.com/darianodirling/cisco-zero-trust-security-fabric) |
+| **KCNA multi-node Minikube lab and observability** | Two-node Minikube, Calico, Kubernetes workloads, RBAC, storage, Helm, Prometheus/Grafana and ArgoCD | [View completed architecture](https://github.com/darianodirling/minikube-nginx-prometheus-observability) |
+| **Enterprise home lab infrastructure** | OPNsense, Proxmox, Nutanix CE, Kubernetes, ZFS, Jellyfin | [View completed architecture](https://github.com/darianodirling/enterprise-homelab-infrastructure) |
 
-> **Portfolio convention:** Reference designs are not claims of production deployment. Each repository distinguishes design intent, sample configuration, tested behavior, and open validation work. Repositories marked *planned* will be published in later phases.
+> **Project status:** I have completed the four architecture projects listed above. Their repositories contain architecture documentation and reference configurations. The KCNA hands-on workbook is documented separately in the Kubernetes repository; its individual lab exercise verification is tracked there. Architecture completion does not imply a production deployment or vendor certification of the configurations.
 
 ## Enterprise home lab overview
 
